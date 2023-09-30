@@ -1,0 +1,11 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\bin\Debug\net7.0\Calculadora.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\CalculadoraTests\CalculadoraTests\obj\Debug\net7.0\ref\Calculadora.dll
